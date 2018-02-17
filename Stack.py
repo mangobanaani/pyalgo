@@ -20,9 +20,3 @@ class Stack:
         if self.is_empty():
             raise Exception('stack is empty')
         return self.data.pop()
-
-    def __sizeof__(self) -> int:
-        return super().__sizeof__()
-
-    def __hash__(self) -> int:
-        return super().__hash__()
