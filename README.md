@@ -71,7 +71,6 @@ pyalgo/
 │   └── graph_algorithms.py    # BFS, DFS, shortest path
 ├── tree_algorithms/           # Advanced tree algorithms
 │   └── segment_tree.py        # Segment Tree implementation
-```
 ├── mathematical/              # Mathematical & number theory algorithms
 │   ├── number_theory.py       # GCD, primality, modular arithmetic
 │   ├── linear_algebra.py      # Matrix operations, linear systems
