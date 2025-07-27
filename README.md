@@ -5,7 +5,6 @@ A comprehensive collection of algorithms and data structures implemented in Pyth
 ## Project Structure
 
 ```
-```
 pyalgo/
 ├── sorting/                    # Sorting algorithms
 │   ├── merge_sort.py          # Merge Sort (O(n log n))
